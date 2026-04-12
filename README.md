@@ -37,7 +37,7 @@ TODO LIST/
 ---
 
 ## Live Demo
-https://asiahidaya.github.io/To-Do-List/
+https://asiahidaya.github.io/To-Do-List/index.html
 
 ## 📌 How It Works
 
